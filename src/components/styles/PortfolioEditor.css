@@ -1,0 +1,14 @@
+.portfolio-editor {
+    text-align: center;
+  }
+  
+  .portfolio-preview {
+    margin-top: 20px;
+  }
+  
+  .portfolio-section {
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgray;
+  }
+  

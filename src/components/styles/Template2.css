@@ -1,0 +1,31 @@
+.template2 {
+    display: flex;
+    font-family: 'Georgia', serif;
+  }
+  
+  .template2 aside {
+    width: 25%;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .template2 main {
+    width: 75%;
+    padding: 20px;
+  }
+  
+  .template2 .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .template2 footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #222;
+    color: white;
+  }
+  

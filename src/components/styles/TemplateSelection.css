@@ -1,0 +1,25 @@
+.template-selection {
+    text-align: center;
+  }
+  
+  .templates {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .template-card {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .template-card:hover {
+    background-color: darkgray;
+  }
+  

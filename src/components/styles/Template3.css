@@ -1,0 +1,28 @@
+.template3 {
+    font-family: 'Courier New', monospace;
+    padding: 20px;
+  }
+  
+  .template3 header {
+    background-color: #1E90FF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .template3 section {
+    margin: 20px 0;
+  }
+  
+  .template3 ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .template3 ul li {
+    background-color: #f8f8f8;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #1E90FF;
+  }
+  

@@ -1,0 +1,28 @@
+.drag-drop {
+    text-align: center;
+  }
+  
+  .drop-zone {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .draggable-components {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .draggable-components div {
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    cursor: pointer;
+  }
+  
+  .draggable-components div:hover {
+    background-color: deepskyblue;
+  }
+  

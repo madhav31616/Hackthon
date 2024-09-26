@@ -1,0 +1,21 @@
+.template1 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .template1 header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+  }
+  
+  .template1 section {
+    margin: 20px;
+  }
+  
+  .template1 footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
